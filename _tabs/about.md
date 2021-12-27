@@ -5,8 +5,17 @@ order: 4
 ---
 
 
-**Câu lạc bộ An toàn thông tin Ethical Hacker Club(EHC) đại học FPT**
+**안녕하세요**
 
-🔥	 Là câu lạc bộ thuộc trường đại học FPT, được thành lập vào ngày 02/12/2017.
+🔥	이도경
 
-🔥	Đi cùng sứ mệnh **“Make IA great again”**, đây là nơi định hướng cũng như nuôi dưỡng niềm đam mê dành cho những sinh viên ngành IA nói riêng và các sinh viên có yêu thích, chú ý với An toàn thông tin.
+🔥	1996.11.11
+
+🔥	경기도 부천시
+
+🔥	okok000ok@naver.com
+
+
+**자기 소개**
+
+대학교에서 프로젝트를 수행하면서 팀원들과의 분위기의 중요성을 알게 되었으며, 팀원들끼리 꾸준한 의사소통으로 의사소통 능력을 키워왔으며 졸업하고 나서는 정보처리기사를 취득하고, 빅데이터 기반 AI 인지식별서비스 개발 교육 과정을 이수했습니다. 이 과정 속에서도 모르는 사람들과의 프로젝트를 3개 진행했습니다. 비록 코로나로 인해 온라인으로 진행하였지만 서로 서로 의사소통을 하면서 임무 분담을 하면서 프로젝트를 진행해왔습니다. 현재는 제 자신만의 깃허브 블로그를 만들면서 제가 배운 내용을 깃허브 블로그에 포트폴리오처럼 기록하고 있습니다. 앞으로는 유튜브 및 구글에서 제가 부족한 부분을 계속 공부하면서 제 자신의 능력을 키우기 위해 끊임없이 노력할 것입니다.
