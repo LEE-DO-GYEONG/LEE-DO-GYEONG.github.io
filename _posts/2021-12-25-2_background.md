@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2.background
+title: 2. background
 date: 2021-12-25 13:30:00 -0500
 categories: [Visual_Studio, pygame_basic] 
 tags: [pygame, python, Visual_Studio]
