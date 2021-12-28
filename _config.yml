@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: 이도경                         # the main title
 
-tagline: 반갑습니다. 이도경입니다.   # it will display as the sub-title
+tagline: 반갑습니다. 저만의 노트입니다.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   이도경, 검색, 정보검색, information retrieval, irgroup
