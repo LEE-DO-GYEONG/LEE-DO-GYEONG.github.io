@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7.radiobutton
-date: 2021-12-27 13:34:00 -0500
+date: 2021-12-27 13:36:00 -0500
 categories: [Visual_Studio, GUI] 
 tags: [GUI, python, Visual_Studio]
 ---
