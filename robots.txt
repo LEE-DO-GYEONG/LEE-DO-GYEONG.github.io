@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://lee-do-gyeong.github.io/sitemap.xml
